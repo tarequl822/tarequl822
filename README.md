@@ -12,8 +12,6 @@ Hi there, 👋 I'm Tarequl Islam !<br>I am a student pursuing a degree in Comput
 ![](https://nirzak-streak-stats.vercel.app/?user=tarequl822&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tarequl822&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tarequl822&limit=5&theme=dark&combine_all_yearly_contributions=true)
